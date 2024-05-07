@@ -1,13 +1,13 @@
 ---
 layout : default
-chapitre: Diagramme-classe
-package: Diagramme-classe
-presentationPackage: Diagramme-classe
+chapitre: Ergotherapeute-Diagramme-classe
+package: Ergotherapeute-Diagramme-classe
+presentationPackage: Ergotherapeute-Diagramme-classe
 order : 1
 ---
 
 
-# Diagramme Diagramme-classe
+# Ergotherapeute Diagramme classe
 
-![Diagramme Diagramme-classe](./images/diagramme-de-classe.PNG){:width="800px" }
-*Figure: Diagramme Diagramme-classe*
+![Ergotherapeute Diagramme-classe](./images/diagramme-de-classe.PNG){:width="800px" }
+*Figure: Ergotherapeute Diagramme classe*

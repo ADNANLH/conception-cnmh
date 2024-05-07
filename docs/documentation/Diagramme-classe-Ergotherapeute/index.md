@@ -5,7 +5,7 @@ order: 1
 
 {% assign pages = site.pages | sort: "order" %}
 {% for page in pages %}
-  {% if page.package == "Diagramme-classe" %}
+  {% if page.package == "Ergotherapeute-Diagramme-classe" %}
     {{- page.content | markdownify -}}
   {% endif %}
 {% endfor %}
