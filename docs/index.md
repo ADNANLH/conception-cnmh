@@ -4,5 +4,5 @@ order: 1
 ---
 
 
-- [Rapport](https://labs-web.github.io/conception/documentation/diagramme-classes-orthoptiste) 
-- [Présentation](https://labs-web.github.io/conception/documentation/diagramme-classes-orthoptiste/presentation.html#/) 
+- [Rapport](https://https://zaani12.github.io/conception/documentation/diagramme-classes-orthoptiste) 
+- [Présentation](https://https://zaani12.github.io/conception/documentation/diagramme-classes-orthoptiste/presentation.html#/) 
